@@ -10,5 +10,5 @@ Quero poder deixar uma marca em cada uma das coisas que desenvolvo e/ou ajudo de
 </div>
   
 
-<a href="https://www.linkedin.com/in/vitor-medeiro-9096ab138/">
+<a href="https://www.linkedin.com/in/rafaelguilber/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Rafael%20Guilber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelguilber/"/></a>
